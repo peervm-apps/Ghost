@@ -15,7 +15,7 @@ The project is maintained by a non-profit organisation called the **Ghost Founda
 - [Feature Requests](http://ideas.ghost.org/)
 - [Dev Blog](http://dev.ghost.org)
 
-# Try Ghost now
+# Launch Ghost now
 
 [![Launch on PeerVM](https://s3-us-west-2.amazonaws.com/peervm/peervm_button.png)](http://ghostvm.com/ghost?ref=admin@peervm.com)
 
